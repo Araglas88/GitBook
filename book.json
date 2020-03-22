@@ -1,6 +1,6 @@
 {
     "gitbook": "2.x.x",
-    "plugins": ["adsense","-sharing"],
+    "plugins": ["adsense","sharing"],
     "pluginsConfig": {
       "adsense": {
         "client": "ca-pub-4167666782002146",
