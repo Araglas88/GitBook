@@ -1,6 +1,6 @@
 {
     "gitbook": "2.x.x",
-    "plugins": ["adsense"],
+    "plugins": ["adsense","-sharing"],
     "pluginsConfig": {
       "adsense": {
         "client": "ca-pub-4167666782002146",
@@ -9,6 +9,20 @@
         "element": ".page-inner section",
         "position": "top"
       }
+    },
+    "pluginsConfig": {
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+        }
     },
     "links": {
         "sidebar": {
