@@ -8,9 +8,7 @@
         "format": "auto",
         "element": ".page-inner section",
         "position": "top"
-      }
-    },
-    "pluginsConfig": {
+      },
         "sharing": {
             "facebook": true,
             "twitter": true,
