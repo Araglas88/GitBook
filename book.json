@@ -9,7 +9,7 @@
         "element": ".page-inner section",
         "position": "top"
       }
-    }
+    },
     "pluginsConfig": {
         "sharing": {
             "facebook": true,
