@@ -1,25 +1,5 @@
 {
     "gitbook": "2.x.x",
-    "plugins": ["adsense","sharing","back-to-top-button"],
-    "pluginsConfig": {
-      "adsense": {
-        "client": "ca-pub-4167666782002146",
-        "slot": "7406325576",
-        "format": "auto",
-        "element": ".page-inner section",
-        "position": "top"
-      },
-        "sharing": {
-            "facebook": true,
-            "twitter": true,
-            "google": false,
-            "weibo": false,
-            "instapaper": false,
-            "vk": false,
-            "all": [
-                "facebook", "google", "twitter",
-                "weibo", "instapaper"
-            ]
-        }
-    }
+    "plugins": ["back-to-top-button"],
+   
 }
